@@ -1,0 +1,31 @@
+.boton {
+    background-color:rgb(247, 209, 43);
+	border-radius:5px;
+	/* display:inline-block; */
+	cursor:pointer;
+	color:#37661b;
+	font-family:Verdana;
+	font-size:14px;
+	font-weight:bold;
+	font-style:black;
+	padding:16px 40px;
+	text-decoration:none;
+	/* margin-top: 0px; */
+	/* margin-bottom: 30px; */
+}
+.boton:hover{
+	background-color: #ffe600;
+	color:white;
+	}
+
+  h1 {
+	color: rgb(247, 209, 43);
+	font-weight: normal;
+	font-size: 40px;
+	font-family: Arial;
+	text-transform: uppercase;
+	/* margin-top: 110px; */
+  }
+  
+	
+  

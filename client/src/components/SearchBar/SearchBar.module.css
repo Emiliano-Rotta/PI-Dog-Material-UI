@@ -1,0 +1,33 @@
+.searchBar{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.input {
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:14px;
+    font-weight:bold;
+    font-style:normal;
+    line-height: 2;
+    width: 250px; 
+    background:linear-gradient(to bottom, #77d42a 5%, #5cb811 100%);
+    background-color:#77d42a;
+}
+
+.boton{
+    cursor:pointer;
+    color:#306108;
+    font-family:Verdana;
+    font-size:14px;
+    font-weight:bold;
+    font-style:normal;
+    line-height: 2;
+    width: 100px; 
+    background:linear-gradient(to bottom, #77d42a 5%, #5cb811 100%);
+    background-color:#77d42a;
+
+}
+      
+      

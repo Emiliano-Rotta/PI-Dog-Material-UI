@@ -1,0 +1,23 @@
+.botonPaginado {
+background-color: #2ecc5d;
+border-radius:42px;
+cursor:pointer;
+color:#306108;
+font-family:Georgia;
+font-size:12px;
+font-weight:bold;
+padding:12px 12px;
+text-decoration:none;
+}
+.botonPaginado:hover{
+background-color: #ffe600;
+color:black;
+}
+
+.paginadoContenedor{
+    display:flex;
+    justify-content: center;
+    gap: 6px;
+
+}
+

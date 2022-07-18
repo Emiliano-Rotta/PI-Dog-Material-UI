@@ -1,0 +1,82 @@
+.contenedor{
+    background: rgba(0,0,0,0.5);
+    display:inline-block;
+    align-items:stretch ;
+    color:#9cf94f;
+    font-family:Verdana;
+    font-size:12px;
+    font-weight:bold;
+    padding:5px 25px;
+    text-decoration:none;
+    
+}
+.boton1{
+    
+        background-color:#77d42a;
+        display:inline-block;
+        cursor:pointer;
+        color:#306108;
+        font-family:Verdana;
+        font-size:14px;
+        font-weight:bold;
+        font-style:normal;
+        padding:5px 25px;
+        text-decoration:none;
+    }
+.boton1:hover{
+    background-color:#0004ff;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:14px;
+    font-weight:bold;
+    padding:5px 30px;
+    text-decoration:none;
+}
+.volver {
+    background-color:#0004ff;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:14px;
+    font-weight:bold;
+    
+    padding:5px 30px;
+    text-decoration:none;
+}
+.volver:hover{
+    background-color:#77d42a;
+    color:#306108;
+}
+
+.error{
+    color: red;
+    font-size: 12px;
+    font-style:italic;
+}
+
+.botonBorrar{
+    background-color:#77d42a;
+    display:inline-block;
+    cursor:pointer;
+    color:#306108;
+    font-family:Verdana;
+    font-size:10px;
+    font-weight:bold;
+    font-style:normal;
+    padding:5px 25px;
+}
+
+.botonBorrar:hover{
+    background-color:#0004ff;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:10px;
+    font-weight:bold;
+    padding:5px 30px;
+    text-decoration:none;
+}
