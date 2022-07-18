@@ -1,4 +1,5 @@
-# PI-Dog-Material-UI
+# PI Dog Material-UI
+## Autor: Emiliano Rotta
 
 <p align="left">
   <img height="200" src="./dog.png" />
